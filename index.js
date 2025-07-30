@@ -7,7 +7,7 @@ import{i as p,S as a}from"./assets/vendor-5ObWk2rO.js";(function(){const r=docum
               <p>${s}</p>
             </li>
             <li>
-              <h3>Vievs</h3>
+              <h3>Views</h3>
               <p>${c}</p>
             </li>
             <li>
