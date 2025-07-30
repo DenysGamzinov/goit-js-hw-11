@@ -30,7 +30,7 @@ function renderFunction(userArray) {
               <p>${likes}</p>
             </li>
             <li>
-              <h3>Vievs</h3>
+              <h3>Views</h3>
               <p>${views}</p>
             </li>
             <li>
